@@ -1,4 +1,4 @@
-# Searching---GriyaKatakPermai
+# Searching-GriyaKatakPermai
 package HackerRankPraktikum.Searching;
 import java.util.ArrayList;
 import java.util.List;
